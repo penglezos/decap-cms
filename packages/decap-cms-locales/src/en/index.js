@@ -164,6 +164,7 @@ const en = {
         code: 'Code',
         link: 'Link',
         linkPrompt: 'Enter the URL of the link',
+        linkTextPrompt: 'Link display name (optional)',
         headings: 'Headings',
         quote: 'Quote',
         bulletedList: 'Bulleted List',
